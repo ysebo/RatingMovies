@@ -1,1 +1,2 @@
-For myself 
+Po prikolu 
+poimal tebya!!!!!!!!!))))
