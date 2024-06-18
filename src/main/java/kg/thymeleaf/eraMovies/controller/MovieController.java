@@ -22,7 +22,7 @@ public class MovieController {
     }
 
     @PostMapping("/add")
-    public String addMovie(@RequestParam String name, @RequestParam int rating) {
+    public String addMovie(@RequestParam String name, @RequestParam double rating) {
         Movie movie = new Movie();
         movie.setName(name);
         movie.setRating(rating);
