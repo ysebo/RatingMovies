@@ -29,4 +29,5 @@ public class MovieController {
         movieRepository.save(movie);
         return "redirect:/";
     }
+    //TO  add there more functions
 }
