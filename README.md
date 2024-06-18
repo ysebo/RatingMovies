@@ -1,3 +1,1 @@
-
-Po prikolu 
-poimal tebya!!!!!!!!!))))
+Dlya sebya , poimal tebya 
